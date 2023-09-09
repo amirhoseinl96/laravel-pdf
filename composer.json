@@ -9,7 +9,6 @@
     "require": {
         "php": "^7.4 || ^8.0",
         "ext-gd": "*",
-        "ext-imagick": "*",
         "ext-mbstring": "*",
         "misterspelik/mpdf": "^6.1.3"
     },
