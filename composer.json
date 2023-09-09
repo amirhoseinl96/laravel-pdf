@@ -9,9 +9,8 @@
     "require": {
         "php": "^7.4 || ^8.2",
         "ext-gd": "*",
-        "ext-imagick": "*",
         "ext-mbstring": "*",
-        "amirhoseinl96/mpdf": "^8.1.6"
+        "misterspelik/mpdf": "^8.1.6"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.6.0",
